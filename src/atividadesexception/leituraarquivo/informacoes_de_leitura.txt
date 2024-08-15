@@ -1,0 +1,6 @@
+
+
+* Files.readAllines > para ler todas as linhas; quando for um arquivo pequeno
+
+* BufferedReader > complexo de escrever; ele é ótimo para ler arquivos grandes;
+quando precisar ler linha por linha

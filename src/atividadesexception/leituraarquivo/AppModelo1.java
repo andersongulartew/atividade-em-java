@@ -3,7 +3,8 @@ package atividadesexception.leituraarquivo;
 import java.io.BufferedReader;
 import java.io.FileReader;
 
-public class App {
+public class AppModelo1 {
+
     public static void main(String[] args) throws Exception {
         //String caminhoArquivo = "E:\\Repositorio GitHub\\estudos-em-java\\src\\atividadesexception\\leituraarquivo\\usuarios.txt";
         String caminhoArquivo = "E:\\Repositorio GitHub\\estudos-em-java\\src\\atividadesexception\\leituraarquivo\\usuariosgnfhgh.txt";
